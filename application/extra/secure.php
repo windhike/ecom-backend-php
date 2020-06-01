@@ -7,6 +7,6 @@
  */
 
 return[
-    'token_salt'=>'efcmpLDKJFakfa5l',
+    'token_salt'=>'efcmpLDKJFakfa5l', //test
     'wx_notify_url' => 'http://z.cn/api/v1/pay/notify', //本地调式可用Ngrok
 ];
