@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58718403-e88a-40a5-925a-ec9b29f41ac4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/api/model/Banner.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/api/model/Banner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/extra/wx.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/extra/wx.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env_cfg_file/php.ini" beforeDir="false" afterPath="$PROJECT_DIR$/env_cfg_file/php.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,7 @@
       <workItem from="1590765776499" duration="51000" />
       <workItem from="1590766744898" duration="970000" />
       <workItem from="1590768638991" duration="38000" />
-      <workItem from="1591046000843" duration="3403000" />
+      <workItem from="1591046000843" duration="3993000" />
     </task>
     <servers />
   </component>

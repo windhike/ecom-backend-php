@@ -7,8 +7,8 @@
  */
 
 return[
-    'app_id' => 'wxf41754d0d9f1d73c', #your app_id
-    'app_secret' => '552b1d1b9c685dbcfcad05a06e084d10', #your app_secret
+    'app_id' => 'wxxxxxxxxxxxxxxxxxx', #your app_id
+    'app_secret' => '552bxxxxxxxxxxxxxxxxxxxxxxx', #your app_secret
     'merchant_id' => '1900009851', #商户号（必须配置，开户邮件中可查看）//fake
     'sign_type' => 'MD5', #签名加密类型，直接MD5即可
     'key' => '8934e7d15453e97507ef794cf7b0519d', # 微信商户平台(pay.weixin.qq.com)-->账户设置-->API安全-->密钥设置//fake
