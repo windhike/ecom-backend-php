@@ -19,6 +19,9 @@ use traits\model\SoftDelete;
 
 class Banner extends BaseModel
 {
+    // 开启自动写入时间戳
+    public $autoWriteTimestamp = true;
+
     use SoftDelete;//使能软删除
     //protected $table='banner_item'; // 缺省模式：Model::get()的table名就是class的名字‘banner’，如果要指定table，则给变量$table赋具体的table名
     protected $hidden = ['update_time','delete_time'];
